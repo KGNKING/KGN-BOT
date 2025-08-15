@@ -353,7 +353,7 @@ if ((event.body.toLowerCase() == "himmat he") || (event.body.toLowerCase() == "b
    };
    mess = "{name}"
   
-  if (event.body.indexOf("Bot") == 0 || (event.body.indexOf("bot") == 0)) {
+  if (event.body.indexOf("Bot") == 0 || (event.body.indexOf("bot dj") == 0)) {
     var msg = {
       body: `${name}, ${rand}`
     }

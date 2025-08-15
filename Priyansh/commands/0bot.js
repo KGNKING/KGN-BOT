@@ -46,8 +46,8 @@ if ((event.body.toLowerCase() == "🥱") || (event.body.toLowerCase() == "😑")
      return api.sendMessage("𝐀𝐚𝐨 𝐩𝐚𝐥𝐥𝐮 𝐦𝐞 𝐠𝐡𝐮𝐬 𝐤𝐞 𝐬𝐨 𝐣𝐚𝐨", threadID);
    };
 
-  if ((event.body.toLowerCase() == "Sudhar jao") || (event.body.toLowerCase() == "sudhar ja")) {
-     return api.sendMessage("𝐌𝐞 𝐬𝐮𝐝𝐡𝐚𝐫 𝐝𝐮𝐧𝐠𝐢😒😒", threadID);
+  if ((event.body.toLowerCase() == "bot malik") || (event.body.toLowerCase() == "sudhar ja")) {
+     return api.sendMessage("𝗠𝗮𝗿𝗮 𝗺𝗮𝗹𝗶𝗸 𝗗𝗝 𝗩𝗜𝗟𝗔𝗡 𝗧𝗔𝗕𝗛𝗔𝗜 𝗛 𝗔𝗚𝗔𝗥 𝗨𝗡𝗦𝗘 𝗣𝗔𝗡𝗚𝗔 𝗟𝗜𝗬𝗔 𝗧𝗢 𝗠𝗢𝗧 𝗞𝗢 𝗬𝗔𝗔𝗗 𝗞𝗬𝗔", threadID);
    };
 
         if ((event.body.toLowerCase() == "💋") || (event.body.toLowerCase() == "💋💋💋")) {
@@ -62,8 +62,8 @@ if ((event.body.toLowerCase() == "🥱") || (event.body.toLowerCase() == "😑")
        return api.sendMessage("𝐇𝐀𝐍 𝐁𝐇𝐀𝐈 𝐀𝐀𝐀 𝐆𝐘𝐀 𝐒𝐖𝐀𝐃 𝐓𝐎𝐓 𝐆𝐀𝐘𝐀 𝐃𝐈𝐋😂 ", threadID);
      };
 
-        if ((event.body.toLowerCase() == "🙄") || (event.body.toLowerCase() == "🙄🙄")) {
-       return api.sendMessage("𝐔𝐩𝐚𝐫 𝐏𝐚𝐧𝐤𝐡𝐚 𝐜𝐡𝐚𝐥𝐭𝐚 𝐡𝐚𝐢🤣", threadID);
+        if ((event.body.toLowerCase() == "chup") || (event.body.toLowerCase() == "🙄🙄")) {
+       return api.sendMessage("𝐨𝐤 𝐦𝐚𝐥𝐢𝐤 𝐝𝐣 𝐯𝐢𝐥𝐚𝐧 𝐭𝐚𝐛𝐡𝐚𝐢 𝐣𝐢 𝐜𝐡𝐮𝐩 𝐡𝐨 𝐣𝐚𝐨 𝐬𝐚𝐛 𝐦𝐚𝐥𝐢𝐤 𝐤𝐨 𝐠𝐡𝐮𝐬𝐚 𝐚𝐚𝐠𝐲𝐚 𝐡𝐚𝐢", threadID);
      };
 
            if ((event.body.toLowerCase() == "😒") || (event.body.toLowerCase() == "😣")) {
